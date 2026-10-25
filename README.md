@@ -1,2 +1,15 @@
-# qrdeck
-Create QR codes and read them from image files on Mac.
+# qrdeck（仮名）
+
+**QR作成・画像から読み取り**
+
+## 課題（Mac標準の不便）
+macOS標準はQR作成がなく、画像ファイルからの読み取りも面倒。
+
+## 計画している機能
+- テキスト/URL/Wi-Fi情報からQR作成
+- 画像ファイル・貼り付けから読み取り
+- 履歴
+
+## ステータス
+仮名・構想段階。2026-10-26に「Mac標準の足りないところ」候補としてリポジトリを作成。
+出典リスト: ~/workspace/apps/macos-builtin-pain-points.md
